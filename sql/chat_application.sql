@@ -55,3 +55,4 @@ CREATE TABLE IF NOT EXISTS messages(
     FOREIGN KEY (to_user) references users(id)
 );
 
+SELECT * FROM users;
