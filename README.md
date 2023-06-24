@@ -1,3 +1,3 @@
 # Chat Application
 
-![alt text](https://github.com/Farruxnet/chat-application/blob/master/chat_application.png?raw=true)
+![alt text](https://github.com/Farruxnet/chat-application/blob/master/images/chat_application.png?raw=true)
